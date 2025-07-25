@@ -1,0 +1,117 @@
+ Top 15 interview for fresher
+
+#	Problem Name	                  LeetCode #                                        Revision
+
+1	Two Sum	                                 1         ✅    
+2	Remove Duplicates from Sorted Array	 26        ✅                               ✅
+3	Move Zeroes	                        283        ✅
+4	Best Time to Buy and Sell Stock	        121        ✅
+5	Contains Duplicate	                217        ✅ 
+6	Maximum Subarray	                53         ✅     
+7	Intersection of Two Arrays II	       350         ✅
+8	Rotate Array	                       189         ✅
+9	Single Number	                       136         ✅
+10	Majority Element                       169         ✅
+
+// 1796 
+
+🔶 Popular Medium-Level Array Problems
+
+11	Subarray Sum Equals K	              560         ✅  
+12	Product of Array Except Self	      238     
+13	Spiral Matrix	                      54
+14	Set Matrix Zeroes	              73
+15	Find the Duplicate Number	      287
+
+
+leetcode profile https://leetcode.com/u/waquarali/
+
+
+
+1. Reverse the Array (Using 2 Pointers)
+बिना extra array के, given array को reverse करो।
+Example: [1, 2, 3, 4] ➔ [4, 3, 2, 1]
+
+2. Move All Zeros to End
+Array में जितने भी zeros हैं, उन्हें end में shift कर दो (order maintain करते हुए)।
+Example: [0, 1, 0, 3, 12] ➔ [1, 3, 12, 0, 0]
+
+3. Find Second Largest Element
+Array का second largest number find करो।
+Example: [12, 35, 1, 10, 34, 1] ➔ 34
+
+4. Find Missing Number in Array 1 to N
+Array में 1 से N तक numbers हैं, 1 number missing है — उसे ढूंढो।
+Example: [1, 2, 4, 5, 6] ➔ 3
+
+5. Check Array is Sorted or Not
+पता करो कि array ascending order में sorted है या नहीं।
+Example: [1, 2, 3, 4] ➔ Yes
+
+6. Remove Duplicates from Sorted Array
+Sorted array में duplicate elements को हटाना है।
+Example: [1,1,2,2,3] ➔ [1,2,3]
+
+7. Rotate Array by K Steps
+Array को right side में K बार rotate करना है।
+Example: [1,2,3,4,5,6,7], k = 3 ➔ [5,6,7,1,2,3,4]
+
+8. Find Unique Element (Every Element Twice Except One)
+Array में हर element 2 बार आता है बस 1 बार वाला element ढूंढो।
+Example: [2,2,1] ➔ 1
+
+9. Find Maximum Subarray Sum (Kadane’s Algorithm)
+Array में subarray का maximum sum find करो।
+Example: [-2,1,-3,4,-1,2,1,-5,4] ➔ 6
+
+10. Count Even and Odd Numbers
+Array में कितने even aur odd numbers हैं count करो।
+Example: [1,2,3,4,5] ➔ Even = 2, Odd = 3
+
+
+
+
+
+_________________________________________________________________
+
+📚 10 Best Array Trick Questions (for Freshers + Logical Thinking)
+
+1. Reverse the Array (using 2 pointers)
+Reverse the given array without using extra space.
+Example: [1, 2, 3, 4] ➔ [4, 3, 2, 1]
+
+2. Move All Zeros to the End
+Move all 0s to the end while maintaining the order of other elements.
+Example: [0, 1, 0, 3, 12] ➔ [1, 3, 12, 0, 0]
+
+3. Find the Second Largest Element
+Find the second highest number in the array.
+Example: [12, 35, 1, 10, 34, 1] ➔ 34
+
+4. Find Missing Number from 1 to N
+Find the missing number when the array should have numbers from 1 to N.
+Example: [1, 2, 4, 5, 6] ➔ 3
+
+5. Check if Array is Sorted
+Check whether the array is sorted in ascending order.
+Example: [1, 2, 3, 4] ➔ Yes
+
+6. Remove Duplicates from a Sorted Array
+Remove duplicates and return only unique elements.
+Example: [1,1,2,2,3] ➔ [1,2,3]
+
+7. Rotate Array by K Steps
+Rotate the array to the right by k positions.
+Example: [1,2,3,4,5,6,7], k=3 ➔ [5,6,7,1,2,3,4]
+
+8. Find the Unique Element (Every other element appears twice)
+Find the element that appears only once when every other appears twice.
+Example: [2,2,1] ➔ 1
+
+9. Find Maximum Subarray Sum (Kadane's Algorithm)
+Find the maximum sum of a contiguous subarray.
+Example: [-2,1,-3,4,-1,2,1,-5,4] ➔ 6
+
+10. Count Even and Odd Numbers
+Count how many even and odd numbers are there in the array.
+Example: [1,2,3,4,5] ➔ Even = 2, Odd = 3

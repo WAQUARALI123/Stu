@@ -1,0 +1,100 @@
+mailto:pooja_mutkiri@persistent.com
+
+Contributed to the development of the backend architecture and components for a comprehensive Youtube Video Streaming 
+
+Contributed to designing and implementing backend architecture and APIs for a scalable YouTube-style video streaming platform.
+
+
+
+Designed and implemented RESTful APIs using Spring Boot, defining endpoints for user authentication, product management, shopping cart operations, 
+ and order processing.
+
+"Designed and implemented RESTful APIs using Spring Boot to handle live channel creation, retrieval by channel ID, video ID, channel name, and other metadata."
+
+
+
+4-Step Thought Process to Solve Any Coding Problem (without solution)
+Step 1: Problem ko तोड़ो छोटे हिस्सों में (Break into Pieces)
+Question पढ़कर हमेशा पहले सोचो:
+➔ "Kya karna hai exactly?"
+
+जैसे अभी ke question में:
+
+"हर 2k characters में पहले k reverse करने हैं और k skip करने हैं।"
+
+बस इतना simple line पहले दिमाग में fix करो।
+
+Step 2: Flow dimaag mein banao (Dry Run in Mind)
+Example लो खुद से, छोटा सा string imagine करो:
+
+"abcdefg" और k=2
+
+खुद से सोचो:
+
+पहले "ab" को उलटना है → "ba"
+
+फिर "cd" को रहने देना है।
+
+फिर "ef" को उलटना है → "fe"
+
+"g" बचेगा तो कुछ नहीं करना।
+
+जब aise example khud बना लोगे,
+तुमko flow automatically samajh aa jayega.
+
+Step 3: Rough Socho Kaunse Tools Chahiye (Plan Tools)
+Yahan tools क्या चाहिए थे?
+
+➔ Array चाहिए था (s.toCharArray())
+➔ Reverse function चाहिए था (i to j swap करना)
+➔ Move करने का logic (i = i + 2k)
+
+Matlab jab bhi kuch repeat ho raha hai ➔ "while loop" ya "for loop" चाहिए।
+
+Note:
+Har question me socho:
+
+"Array chahiye? Pointer chahiye? Loop chahiye? Helper function chahiye?"
+
+Step 4: Edge Case Pe Socho (Think Boundary Cases)
+Acha, kya hota agar end me characters kam bachein?
+
+Aisa hota to Math.min(i+k-1, n-1) lagana पड़ता, ताकि hum array ke बाहर ना जाएं।
+
+✅ Isi liye real coding me edge case dhyan me rakhte hain.
+
+🔥 इस पूरे Process को naam diya ja sakta hai:
+"Break ➔ Dry Run ➔ Tools ➔ Edge Cases"
+
+Ekdam simple story me:
+Tukde kar do (problem ko)
+
+Chhoti example leke mind me chalao
+
+Samjho kya chahiye (Array? Loop? Function?)
+
+Dhyan do end cases pe (array bound, empty string, etc.)
+
+🎯 Bonus Tip:
+Jab tum apne mind me flow bana lete ho pehle,
+to code likhna bas copy-paste jaisa lagta hai! 🚀
+
+Aur jab tum dry-run ke example khud bana lete ho,
+to koi bhi tricky question bhi simple lagne lagta hai।
+
+✅ Final Line:
+"Jo samajh gaya problem ko break karna + dry run karna —
+woh bina solution dekhe kisi bhi coding question ko tod sakta hai!"
+
+Chaaho to main ek chhota se practice example de sakta hoon abhi,
+jo tum isi method se try karo —
+dekhte hain bina solution ke kar pate ho kya! 😎🔥
+Batau? (Ek mast chhota challenge doon?) 🚀✨
+
+
+
+
+
+
+
+You said:

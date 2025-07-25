@@ -1,0 +1,110 @@
+Top 50 Easy Array Questions on LeetCode
+
+🔹 Basics (Looping, Indexing, Conditions)
+Two Sum
+
+Best Time to Buy and Sell Stock
+
+Remove Duplicates from Sorted Array
+
+Remove Element
+
+Maximum Subarray
+
+Merge Sorted Array
+
+Majority Element
+
+Contains Duplicate
+
+Intersection of Two Arrays II
+
+Move Zeroes
+
+🔹 Sorting and Searching Related
+Sort Colors
+
+Check If N and Its Double Exist
+
+Valid Mountain Array
+
+Find All Numbers Disappeared in an Array
+
+Third Maximum Number
+
+Find Numbers with Even Number of Digits
+
+Squares of a Sorted Array
+
+Height Checker
+
+🔹 Sliding Window / Subarrays
+Maximum Average Subarray I
+
+Find Pivot Index
+
+Subarray Sum Equals K
+
+Minimum Size Subarray Sum
+
+🔹 HashMap Based (Frequency, Count)
+Two Sum II - Input Array Is Sorted
+
+How Many Numbers Are Smaller Than the Current Number
+
+Find the Duplicate Number
+
+Single Number
+
+First Missing Positive
+
+🔹 Matrix-Based (2D Arrays)
+Transpose Matrix
+
+Matrix Diagonal Sum
+
+Reshape the Matrix
+
+Set Matrix Zeroes
+
+Spiral Matrix
+
+Search a 2D Matrix
+
+Diagonal Traverse
+
+🔹 Logical/Pattern-Based
+Relative Sort Array
+
+Find Lucky Integer in an Array
+
+Replace Elements with Greatest Element on Right Side
+
+Count Good Triplets
+
+Kids With the Greatest Number of Candies
+
+Can Place Flowers
+
+Toeplitz Matrix
+
+🔹 Bit Manipulation / XOR / Set Based
+Missing Number
+
+Find the Difference
+
+Happy Number
+
+Isomorphic Strings
+
+🔹 More Practice
+Maximum Product of Two Elements in an Array
+
+Build Array from Permutation
+
+Running Sum of 1d Array
+
+Shuffle the Array
+
+Concatenation of Array
+

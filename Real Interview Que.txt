@@ -1,0 +1,250 @@
+Real Interview Que
+
+Q1.Write a program that checks if a given number is prime but does not belong to the fibonaci series. The program should return 1 if the number is prime and does not belong to the fibonaic series or 0 otherwise
+
+Example 1: The number 5 is both prime and belongs to the fibonaci series. Hence you should return 0
+
+Given input
+
+5
+
+Output should be
+0
+
+Example 2: The number 7 is prime but does belongs to the fibonaci series. Hence you should return 1
+
+Given input
+
+7
+
+Output should be
+
+1
+
+0
+
+Q2.Write a program to print the nth prime number after a given number m.
+
+Example 1: Given prime number m=3 and n=5. The program should print the 5th prime number afer 3
+
+Given input
+
+3
+
+5
+
+Expected output
+
+17
+
+Example 2
+Give input 
+7
+10
+
+Expected Output 
+43
+
+
+Q3.Given an array of random characters, integers and symbols, WAP to print the original array but instead of the special characters and numbers print the symbol #.
+
+Example 1: given the below input, the output will have the special characters and numbers replaced by a #
+
+Given Input
+
+GSD#13xxU343%^DGF1@@
+
+Expected output
+
+GSD###xxU#####DGF###
+
+Expected output
+
+GSD###xxU#####DGF###
+
+Example 2: given the below input, the output will have the special characters and numbers replaced by a #
+
+Given Input
+
+11@@33S*DFS44_+}bb#555
+
+Expected output
+
+######S#DFS####bb####
+
+_________________________________________________________________________________________________________________________________________
+
+Q4.Given an array of random characters, integers and symbols, WAP to split the array into 3 seperate arrays. First array should contain only uppercase characters, the second array should contain lowercase letters and the third array should contain the numbers. Please print the 3 arrays in the same order i.e uppercase array, lowercase array and numbers array
+
+Example 1: given the below input, the upercase characters are GSDUDGF, the lowercase characters are xx and the numbers are 123431
+
+Given Input
+
+[GSD#13xxU343%^DGF1@@
+
+Example 2: given the below input, the upercase characters are SDFS, the lowercase characters are persq and the numbers are 113344555.
+
+Given Input
+
+11per@@33S*DFSs44_+}q|#555
+
+Expected output
+
+SDFS
+
+persq
+
+113344555
+
+________________________________________________________________________________________________________________________
+
+
+Q5.give SpongeCaseExample   
+
+
+// input Hello world
+//output HeLlO WoRlD
+
+Spaces (ya non-letter characters) ko ignore karte hain count mein.
+Lekin unko as-it-is output mein rakhte hain.
+
+
+___________________________________________________________________________________________
+
+Q6.  input= My name is John
+     output= nj oJsi em anyM 
+
+____________________________________________________________________________________________________
+
+Q8. String s1= India Is one of the nation in the world
+    String s2= My nation Is India
+
+output: India -0
+        Is -6
+     nation- 20
+
+-----------------------------------------------------------------------
+
+write char count in string program using hashmap
+
+
+
+
+
+Given an array of characters, write a program to reorder the array so that a vowel is always followed by TWO consonants. Ensure that the vowels and consonants are picked up from the array in the order in which they are present to build the vowel-2consonants set. i.e if you have 3 vowels then you should always use the first vowel for your first set, followed by the second vowel for the second set and so on. Same holds true for consonants as well. Any remaining characters that can't be part of the set can be placed at the end of the array in any order
+
+Example 1: given array
+
+9 <= NO of elements
+
+G <= consonant
+
+O <= vowel
+
+O <= vowel
+
+G <= consonant
+
+L <= consonant
+
+E <= vowel
+
+N <= consonant
+
+1 <= vowel
+
+x <= consonant
+
+you need to rearrange the array like the following
+
+first vowel-consonant sets---
+
+O <= vowel
+
+G <= consonant
+
+G <= consonant
+
+O <= vowel
+
+L <= consonant
+
+N <= consonant
+
+E <= vowel
+
+X <= consonant
+
+Given input
+
+9
+
+G
+
+0
+
+0
+
+G
+
+L
+
+E
+
+N
+
+I
+X
+
+Expected output
+
+0
+
+G
+
+G
+
+0
+
+L
+
+N
+
+E
+
+X
+
+Example 2:
+
+Given input
+
+8
+
+C
+
+L
+
+0
+
+U
+
+D
+
+N
+
+I
+
+X
+
+Expected output
+
+O
+C
+L
+U
+D
+N
+I
+X
+
+

@@ -1,0 +1,33 @@
+
+
+#	Problem Name	                             LeetCode #
+
+1	Two Sum	                                          1
+2	Best Time to Buy and Sell Stock	                 121
+3	Contains Duplicate	                          217
+4	Maximum Subarray	                           53
+5	Intersection of Two Arrays II	                   350
+6	Move Zeroes	                                   283
+7	Plus One	                                   66
+8	Remove Duplicates from Sorted Array	           26
+9	Rotate Array	                                   189
+10	Single Number	                                   136
+11	Majority Element	                           169
+12	Missing Number	                                   268
+13	Merge Sorted Array	                            88
+14	Check If N and Its Double Exist	                    1346
+15	Replace Elements with Greatest Element on Right Side	1299
+16	Remove Element	                                      27
+17	Third Maximum Number	                              414
+18	Max Consecutive Ones	                               485
+19	Find Pivot Index	                               724
+20	Running Sum of 1d Array	                               1480
+21	Build Array from Permutation	                       1920
+22	Concatenation of Array	                               1929
+23	Shuffle the Array	                               1470
+24	How Many Numbers Are Smaller Than the Current Number	1365
+25	Kids With the Greatest Number of Candies	        1431
+
+
+
+

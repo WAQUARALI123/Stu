@@ -1,0 +1,27 @@
+📌 Top 20 Matrix Interview Questions (With Topics)
+🟢 Easy Level (Basic Concepts + Traversals)
+1️⃣ Print a Matrix in row-wise and column-wise order
+2️⃣ Find the sum of all elements in a Matrix
+3️⃣ Print both diagonals of a square Matrix
+4️⃣ Transpose of a Matrix
+5️⃣ Search an element in a Matrix (Linear Search)
+6️⃣ Check if a Matrix is symmetric
+
+🟡 Medium Level (Logic-based Problems)
+7️⃣ Search in a row-wise and column-wise sorted Matrix (Leetcode 74, 240)
+8️⃣ Spiral Traversal of a Matrix
+9️⃣ Set Matrix Zeros (Leetcode 73)
+🔟 Rotate a Matrix by 90 degrees (Leetcode 48)
+1️⃣1️⃣ Find row with maximum number of 1’s (GFG)
+1️⃣2️⃣ Find median of a row-wise sorted Matrix
+1️⃣3️⃣ Boundary Traversal of a Matrix
+1️⃣4️⃣ Diagonal Traversal of a Matrix
+
+🔴 Hard Level (Backtracking + Advanced)
+1️⃣5️⃣ Word Search (Leetcode 79)
+1️⃣6️⃣ Sudoku Solver (Leetcode 37)
+1️⃣7️⃣ Rat in a Maze Problem (GFG)
+1️⃣8️⃣ Unique Paths in a Grid (Leetcode 62)
+1️⃣9️⃣ Minimum Path Sum (Leetcode 64)
+2️⃣0️⃣ Island Problems (Number of Islands, Leetcode 200)
+

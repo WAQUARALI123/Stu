@@ -1,0 +1,104 @@
+vocabulary   word  
+
+whether  चाहे
+while    जबकि
+entire  पूरा
+ensures
+omit  = छोड़ देना
+
+
+
+
+
+
+
+
+
+🔷 1. Class & Object Concepts
+Can we create an object of an abstract class?
+
+What is the difference between class and object?
+
+Can a class be static in Java?
+
+What is the use of a static class in Java?
+
+Difference between static block, static method, and static variable?
+
+🔷 2. Abstract Class & Interface
+Can abstract classes have constructors?
+
+Can abstract classes have non-abstract methods?
+
+Can we declare abstract methods in interfaces?
+
+Difference between abstract class and interface?
+
+Can we create an object of an interface?
+
+Can we write a method with body inside interface (Java 8+ features)?
+
+🔷 3. Method Concepts
+What is method overloading and overriding?
+
+Can static methods be overridden?
+
+Can we override private methods?
+
+What is final method? Can we override it?
+
+What is default method in interface?
+
+🔷 4. Access Modifiers
+Difference between public, private, protected, and default?
+
+Can we access private members from outside the class?
+
+What is the default access modifier in Java?
+
+🔷 5. Static & Final
+What is static keyword in Java?
+
+What is the difference between static and instance variables?
+
+What is the final keyword in Java (for variable, method, class)?
+
+Can a final method be overridden?
+
+Can we declare constructor as static?
+
+🔷 6. Inheritance & Polymorphism
+Can a class extend multiple classes?
+
+Can a class implement multiple interfaces?
+
+What is runtime vs compile-time polymorphism?
+
+What is the use of super and this?
+
+🔷 7. Constructor Concepts
+Can constructors be overloaded?
+
+Can constructors be private?
+
+What happens if we don't define a constructor?
+
+Can abstract class have constructors?
+
+🔷 8. Exception Handling
+What is the difference between checked and unchecked exceptions?
+
+What is finally block? When is it executed?
+
+Can we have try block without catch?
+
+Can we catch multiple exceptions?
+
+🔷 9. Miscellaneous (Important too!)
+What is the difference between == and .equals()?
+
+What is the difference between String, StringBuilder, and StringBuffer?
+
+What is the purpose of the main() method?
+
+Can we overload the main() method?
